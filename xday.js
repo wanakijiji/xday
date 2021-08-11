@@ -4,7 +4,6 @@
  */
 
 $( function() {
-	'use strict';
 
   $.fn.xday = function( date ) {
 
